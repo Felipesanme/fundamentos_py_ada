@@ -1,0 +1,1 @@
+Por el momento el proyecto únicamente cuenta con la solicitud del usuario por teclado, sigan en estudio.
