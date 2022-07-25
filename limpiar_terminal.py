@@ -7,10 +7,10 @@ def func(n:int):
     cont = 1
     while cont <= 50:
         k = readchar.readkey()
-        print(cont)
         os.system('cls' if os.name == 'nt' else 'clear')
+        print(cont)
         cont += 1
-
+    os.system('cls' if os.name == 'nt' else 'clear')
 def main():
 
     func(0)
