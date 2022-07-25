@@ -1,3 +1,5 @@
+#Enviado a validación en el juez virtual https://judge.juki.app/es/problem/view/1100/submissions?tab=statement&submissions.page=1&submissions.pageSize=32
+
 def bisiesto(anio: int):
 
     if anio % 100 != 0 and anio % 4 == 0:
