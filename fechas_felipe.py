@@ -30,7 +30,7 @@ def valid_fec(dia: int, mes: int, bisiesto:bool):
         return False
         
 def main():
-    n = int(input())
+
     
     for _ in range (n):
         d, m, a = list(map(int, input().split()))
